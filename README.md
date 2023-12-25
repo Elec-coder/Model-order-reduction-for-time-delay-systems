@@ -1,0 +1,1 @@
+This project involves a model order reduction method for large-scale delay systems, and uses Matlab for the validation of the model reduction technique.
